@@ -1,0 +1,19 @@
+body {
+    background: #2837d9;
+    
+    margin: 0;
+   
+    color: rgb(250, 7, 7);
+    text-align: justify
+    
+    align-items: center;
+    p{
+      font-weight: bold;
+    }
+  }
+img 
+{
+width: 200px;
+height: 200px;
+
+}
